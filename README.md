@@ -89,3 +89,19 @@ To conclude, the Advanced Encryption Tool is a lightweight, easy-to-use Python a
 This project also introduces students to the basics of cryptography, file handling, and GUI development, making it a great learning experience. With further improvements, this tool could be extended to support multiple file types, password-based key storage, and cloud integration for wider use.
 
 Ultimately, this project successfully meets all the deliverables mentioned in the instructions — combining security, simplicity, and practical use in one compact tool.
+
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/19a5693a-acb6-4477-852c-53c010b75964)
+
+![Image](https://github.com/user-attachments/assets/0df4b5ea-9454-4a84-9ff9-48b7c92a298b)
+
+![Image](https://github.com/user-attachments/assets/1a9e136b-2efc-42a5-b79e-05fee1e61908)
+
+![Image](https://github.com/user-attachments/assets/3d0fe8af-6d3a-4910-b35c-9d175a34a081)
+
+![Image](https://github.com/user-attachments/assets/2f64a74a-43eb-43a3-9e84-52ad73bec78a)
+
+![Image](https://github.com/user-attachments/assets/0118da8e-6716-4a2c-a99a-ab7378802730)
+
+![Image](https://github.com/user-attachments/assets/9df2cb33-3a43-4e23-87d1-9efb2c933737)
